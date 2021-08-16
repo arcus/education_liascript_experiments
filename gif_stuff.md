@@ -22,3 +22,5 @@ script:   https://chop-dbhi-arcus-education-website-assets.s3.amazonaws.com/java
 <figure>
   <img src="https://raw.githubusercontent.com/arcus/education_liascript_experiments/main/img/r_console.png" height="500" width="800" alt="Static Image" data-alt="https://raw.githubusercontent.com/arcus/education_liascript_experiments/main/img/r_console.gif">
 </figure>
+
+**Click to start / restart playback of video**
