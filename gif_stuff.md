@@ -14,10 +14,7 @@ comment:  Short description here
 
 script:   https://code.jquery.com/jquery-3.6.0.slim.min.js
 
-script:   https://github.com/arcus/education_liascript_experiments/raw/main/js/scripts.js
-
-link:     https://some_css_stuff
-          https://and_some_more_css
+script:   https://raw.githubusercontent.com/arcus/education_liascript_experiments/main/js/scripts.js
 -->
 
 # Let's check out an animated gif
