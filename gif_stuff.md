@@ -24,3 +24,11 @@ script:   https://chop-dbhi-arcus-education-website-assets.s3.amazonaws.com/java
 </figure>
 
 **Click to start / restart playback of video**
+
+# This was a bit of a pain to figure out
+
+But now I think I can show folks how to do it?  
+
+* A few weird javascript things...
+* Some troubleshooting experiences from my webdev days...
+* AWS got in there...
