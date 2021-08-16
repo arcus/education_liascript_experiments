@@ -20,5 +20,5 @@ script:   https://chop-dbhi-arcus-education-website-assets.s3.amazonaws.com/java
 # Let's check out an animated gif
 
 <figure>
-  <img src="img/r_console.png" height="500" width="800" alt="Static Image" data-alt="img/r_console.gif">
+  <img src="img/r_console.png" height="500" width="800" alt="Static Image" data-alt="https://raw.githubusercontent.com/arcus/education_liascript_experiments/main/img/r_console.gif">
 </figure>
